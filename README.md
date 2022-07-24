@@ -1,2 +1,2 @@
-# rx-sense_terra
-technical project for rx-sense interview
+# RxSense_terra
+Technical project for RxSense interview
